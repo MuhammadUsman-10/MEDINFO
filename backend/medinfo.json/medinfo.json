@@ -1,0 +1,585 @@
+[
+  {
+    "name": "Novidat",
+    "formula": "Ciprofloxacin",
+    "company": "MedCo",
+    "price": 200
+  },
+  {
+    "name": "Zepro",
+    "formula": "Ciprofloxacin",
+    "company": "PharmaTech",
+    "price": 400
+    
+  },
+  {
+    "name": "Mercip",
+    "formula": "Ciprofloxacin",
+    "company": "BioMeds",
+    "price": 500
+  },
+  {
+    "name": "Mytil",
+    "formula": "Ciprofloxacin",
+    "company": "HealthSolutions",
+    "price": 200
+  },
+  {
+    "name": "augmentin",
+    "formula": "amoxicillin",
+    "company": "MediCure",
+    "price": 300
+  },
+  {
+    "name": "Adamox",
+    "formula": "amoxicillin",
+    "company": "PharmaWell",
+    "price": 250
+  },
+  {
+    "name": "Calamox",
+    "formula": "amoxicillin",
+    "company": "LifeMeds",
+    "price": 400
+  },
+  {
+    "name": "Kmoxilin",
+    "formula": "amoxicillin",
+    "company": "MediGen",
+    "price": 350
+  },
+  {
+    "name": "brexin",
+    "formula": "piroxicam-beta-cyclodextrin",
+    "price": 200,
+    "company": "Pharmaceuticals Inc."
+  },
+  {
+    "name": "Antixin",
+    "formula": "piroxicam-beta-cyclodextrin",
+    "company": "BioPharma",
+    "price": 700
+  },
+  {
+    "name": "Bexicam",
+    "formula": "piroxicam-beta-cyclodextrin",
+    "company": "HealthMeds",
+    "price": 330
+  },
+  {
+    "name": "Felbex",
+    "formula": "piroxicam-beta-cyclodextrin",
+    "company": "MediCare",
+    "price": 550
+  },
+  {
+    "name": "benzirin",
+    "formula": "benzydamine",
+    "price": 600,
+    "company": "Pharmaceuticals Ltd."
+  },
+  {
+    "name": "Citacol",
+    "formula": "benzydamine",
+    "price": 800,
+    "company": "BioMedicine"
+  },
+  {
+    "name": "Eziclor",
+    "formula": "benzydamine",
+    "price": 300,
+    "company": "HealthPharma"
+  },
+  {
+    "name": "Niflam",
+    "formula": "benzydamine",
+    "price": 430,
+    "company": "MediSolutions"
+  },
+  {
+    "name": "beflam",
+    "formula": "diclofenac",
+    "price": 150,
+    "company": "PharmaCare"
+  },
+  {
+    "name": "Antiflam",
+    "formula": "diclofenac",
+    "price": 550,
+    "company": "BioCare"
+  },
+  {
+    "name": "Caflam",
+    "formula": "diclofenac",
+    "price": 450,
+    "company": "LifePharma"
+  },
+  {
+    "name": "Declam",
+    "formula": "diclofenac",
+    "price": 900,
+    "company": "MediWell"
+  },
+  {
+    "name": "espra",
+    "formula": "esomeprazole",
+    "price": 750,
+    "company": "PharmaHealth"
+  },
+  {
+    "name": "Esso 20/40",
+    "formula": "esomeprazole",
+    "price": 200,
+    "company": "MediLabs"
+  },
+  {
+    "name": "Opril 20/40",
+    "formula" :"benzydamine",
+    "price": 300,
+    "company":""
+  },
+  {
+    "name": "Ezomal 20/40 MG",
+    "formula": "esomeprazole",
+    "price": 800,
+    "company": "MediLabs"
+  },
+  {
+    "name": "Nyloz 20/40 MG",
+    "formula": "esomeprazole",
+    "price": 300,
+    "company": "PharmaHealth"
+  },
+  {
+    "name": "Ottozole",
+    "formula": "esomeprazole",
+    "price": 500,
+    "company": "LifePharma"
+  },
+  {
+    "name": "Zespra",
+    "formula": "esomeprazole",
+    "price": 700,
+    "company": "MediGen"
+  },
+  {
+    "name": "concor",
+    "formula": "bisoprolol",
+    "price": 150,
+    "company": "PharmaWell"
+  },
+  {
+    "name": "Bisprol",
+    "formula": "bisoprolol",
+    "price": 900,
+    "company": "MediCure"
+  },
+  {
+    "name": "Monocor",
+    "formula": "bisoprolol",
+    "price": 450,
+    "company": "HealthSolutions"
+  },
+  {
+    "name": "Safcor",
+    "formula": "bisoprolol",
+    "price": 200,
+    "company": "BioMeds"
+  },
+  {
+    "name": "cosome syp",
+    "formula": "bextromethorphan",
+    "price": 550,
+    "company": "PharmaCare"
+  },
+  {
+    "name": "Pulmonal Syp",
+    "formula": "bextromethorphan",
+    "price": 400,
+    "company": "MediSolutions"
+  },
+  {
+    "name": "Brodex Syp",
+    "formula": "bextromethorphan",
+    "price": 600,
+    "company": "Pharmaceuticals Ltd."
+  },
+  {
+    "name": "Acefyl Cough Syp ",
+    "formula": "bextromethorphan",
+    "price": 250,
+    "company": "BioPharma"
+  },
+  {
+    "name": "Zatofen Syp",
+    "formula": "bextromethorphan",
+    "price": 850,
+    "company": "HealthMeds"
+  },
+  {
+    "name": "Hydurlin",
+    "formula": "bextromethorphan",
+    "price": 700,
+    "company": "BioMedicine"
+  },
+  {
+    "name": "ascard",
+    "formula": "asprine",
+    "price": 950,
+    "company": "LifeMeds"
+  },
+  {
+    "name": "Disprin",
+    "formula": "asprine",
+    "price": 200,
+    "company": "MediGen"
+  },
+  {
+    "name": "Loprin 50/75 Mg",
+    "formula": "asprine",
+    "price": 350,
+    "company": "PharmaTech"
+  },
+  {
+    "name": "Ecotrin",
+    "formula": "asprine",
+    "price": 750,
+    "company": "MediCare"
+  },
+  {
+    "name": "fortius",
+    "formula": "Rosuvastatin",
+    "price": 300,
+    "company": "Pharmaceuticals Inc."
+  },
+  {
+    "name": "Amsos",
+    "formula": "Rosuvastatin",
+    "price": 700,
+    "company": "HealthPharma"
+  },
+  {
+    "name": "Nenroz",
+    "formula": "Rosuvastatin",
+    "price": 150,
+    "company": "PharmaWell"
+  },
+  {
+    "name": "Rolip",
+    "formula": "Rosuvastatin",
+    "price": 550,
+    "company": "Bio"
+  },
+  {
+    "name": "Rouslin",
+    "formula": "Rosuvastatin",
+    "price": 445,
+    "company": "MediPharm"
+  },
+  {
+    "name": "Laxoberon",
+    "formula": "Sodium Picosulphate",
+    "price": 195,
+    "company": "HealthCare Solutions"
+  },
+  {
+    "name": "Brilax",
+    "formula": "Sodium Picosulphate",
+    "price": 430,
+    "company": "MediLife Pharmaceuticals"
+  },
+  {
+    "name": "Softlax",
+    "formula": "Sodium Picosulphate",
+    "price": 150,
+    "company": "Wellness Drugs"
+  },
+  {
+    "name": "Picoz",
+    "formula": "Sodium Picosulphate",
+    "price": 160,
+    "company": "PharmaWell"
+  },
+  {
+    "name": "kkort",
+    "formula": "Triamcinolone",
+    "price": 295,
+    "company": "BioGen Pharmaceuticals"
+  },
+  {
+    "name": "Eczium G",
+    "formula": "Triamcinolone",
+    "price": 455,
+    "company": "LifeCure Labs"
+  },
+  {
+    "name": "Kenacomb",
+    "formula": "Triamcinolone",
+    "price": 205,
+    "company": "MediGenix"
+  },
+  {
+    "name": "Lona-Cort",
+    "formula": "Triamcinolone",
+    "price": 235,
+    "company": "GlobalHeal"
+  },
+  {
+    "name": "Azmacort",
+    "formula": "Triamcinolone",
+    "price": 435,
+    "company": "PharmaVista"
+  },
+  {
+    "name": "Lazma",
+    "formula": "Fluocinolone",
+    "price": 330,
+    "company": "BioCare Innovations"
+  },
+  {
+    "name": "Dermo-Cream",
+    "formula": "Fluocinolone",
+    "price": 290,
+    "company": "CureLink Pharmaceuticals"
+  },
+  {
+    "name": "Flytro Cream",
+    "formula": "Fluocinolone",
+    "price": 310,
+    "company": "HealthWise Labs"
+  },
+  {
+    "name": "Retrive",
+    "formula": "Fluocinolone",
+    "price": 250,
+    "company": "PharmaHub"
+  },
+  {
+    "name": "Levoxin",
+    "formula": "Levofloxacin",
+    "price": 590,
+    "company": "MediPharm"
+  },
+  {
+    "name": "Leflox 250/500/750 Mg",
+    "formula": "Levofloxacin",
+    "price": 300,
+    "company": "HealthCare Solutions"
+  },
+  {
+    "name": "Alovic",
+    "formula": "Levofloxacin",
+    "price": 320,
+    "company": "MediLife Pharmaceuticals"
+  },
+  {
+    "name": "Bexus",
+    "formula": "Levofloxacin",
+    "price": 430,
+    "company": "Wellness Drugs"
+  },
+  {
+    "name": "Lexotanil",
+    "formula": "Bromazepam",
+    "price": 300,
+    "company": "BioGen Pharmaceuticals"
+  },
+  {
+    "name": "Brolite",
+    "formula": "Bromazepam",
+    "price": 573,
+    "company": "LifeCure Labs"
+  },
+  {
+    "name": "Brozinil",
+    "formula": "Bromazepam",
+    "price": 450,
+    "company": "MediGenix"
+  },
+  {
+    "name": "Lexapam",
+    "formula": "Bromazepam",
+    "price": 420,
+    "company": "GlobalHeal"
+  },
+  {
+    "name": "Ikodil",
+    "formula": "Nicorandil",
+    "price": 240,
+    "company": "BioCare Innovations"
+  },
+  {
+    "name": "Nicodil",
+    "formula": "Nicorandil",
+    "price": 660,
+    "company": "CureLink Pharmaceuticals"
+  },
+  {
+    "name": "Nicoril",
+    "formula": "Nicorandil",
+    "price": 600,
+    "company": "HealthWise Labs"
+  },
+  {
+    "name": "Dycoral",
+    "formula": "Nicorandil",
+    "price": 500,
+    "company": "PharmaHub"
+  },
+  {
+    "name": "Stmom",
+    "formula": "Misoprostol",
+    "price": 700,
+    "company": "MediPharm"
+  },
+  {
+    "name": "Cytopan",
+    "formula": "Misoprostol",
+    "price": 500,
+    "company": "HealthCare Solutions"
+  },
+  {
+    "name": "Distol",
+    "formula": "Misoprostol",
+    "price": 560,
+    "company": "MediLife Pharmaceuticals"
+  },
+  {
+    "name": "Ismart",
+    "formula": "Misoprostol",
+    "price": 580,
+    "company": "Wellness Drugs"
+  },
+  {
+    "name": "Sleanz",
+    "formula": "Lansoprazole",
+    "price": 600,
+    "company": "BioGen Pharmaceuticals"
+  },
+  {
+    "name": "D-Burn",
+    "formula": "Lansoprazole",
+    "price": 620,
+    "company": "LifeCure Labs"
+  },
+  {
+    "name": "Exazole",
+    "formula": "Lansoprazole",
+    "price": 640,
+    "company": "MediGenix"
+  },
+  {
+    "name": "Indpro",
+    "formula": "Lansoprazole",
+    "price": 660,
+    "company": "GlobalHeal"
+  },
+  {
+    "name": "Tanzo",
+    "formula": "Piperacillin",
+    "price": 680,
+    "company": "BioCare Innovations"
+  },
+  {
+    "name": "Tazomax",
+    "formula": "Piperacillin",
+    "price": 700,
+    "company": "CureLink Pharmaceuticals"
+  },
+  {
+    "name": "Combicin",
+    "formula": "Piperacillin",
+    "price": 720,
+    "company": "HealthWise Labs"
+  },
+  {
+    "name": "Tazop",
+    "formula": "piperacillin",
+    "company": "ABC Pharma",
+    "price": 700
+  },
+  {
+    "name": "Titain",
+    "formula": "ceftriaxone",
+    "company": "XYZ Pharmaceuticals",
+    "price": 800
+  },
+  {
+    "name": "Rocephin 1GM / 500 IV",
+    "formula": "ceftriaxone",
+    "company": "Medico Inc.",
+    "price": 900
+  },
+  {
+    "name": "Prezone inj",
+    "formula": "ceftriaxone",
+    "company": "PharmaCare",
+    "price": 750
+  },
+  {
+    "name": "Cefafin",
+    "formula": "ceftriaxone",
+    "company": "Global Meds",
+    "price": 850
+  },
+  {
+    "name": "Brufen",
+    "formula": "ibuprofen",
+    "company": "Pfizer",
+    "price": 600
+  },
+  {
+    "name": "Zofin",
+    "formula": "ibuprofen",
+    "company": "Novartis",
+    "price": 550
+  },
+  {
+    "name": "Blufen",
+    "formula": "ibuprofen",
+    "company": "AstraZeneca",
+    "price": 700
+  },
+  {
+    "name": "Panadol",
+    "formula": "paracetamol",
+    "company": "Johnson & Johnson",
+    "price": 800
+  },
+  {
+    "name": "Panadol Extend",
+    "formula": "paracetamol",
+    "company": "GSK",
+    "price": 900
+  },
+  {
+    "name": "Amsitol",
+    "formula": "paracetamol",
+    "company": "Sanofi",
+    "price": 950
+  },
+  {
+    "name": "Astadol",
+    "formula": "paracetamol",
+    "company": "Merck",
+    "price": 700
+  },
+  {
+    "name": "Zetro",
+    "formula": "azithromycin",
+    "company": "Abbott",
+    "price": 800
+  },
+  {
+    "name": "Atizor",
+    "formula": "azithromycin",
+    "company": "Cipla",
+    "price": 750
+  },
+  {
+    "name": "Macrobac",
+    "formula": "azithromycin",
+    "company": "Sun Pharma",
+    "price": 900
+  }
+]
